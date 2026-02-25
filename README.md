@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Raj Gandhi 👋  
+Hi, I'm Raj Gandhi 
 B.Tech Computer Science student with a strong interest in Artificial Intelligence and Data Systems.
 
 I enjoy working at the intersection of algorithms, databases, and backend development. 
