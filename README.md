@@ -1,14 +1,18 @@
 # 💫 About Me:
-AI • Systems • Algorithms  <br>CSE Undergraduate | Building with purpose  
+Hi, I'm Raj Gandhi 👋  
+B.Tech Computer Science student with a strong interest in Artificial Intelligence and Data Systems.
 
+I enjoy working at the intersection of algorithms, databases, and backend development. 
+My focus is on building structured, scalable systems grounded in strong fundamentals.
+
+Currently preparing deeply in core CS subjects and exploring 
+how intelligent systems are engineered from theory to deployment.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raj-2k5) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Raj-2k5&icon=0&color=0)](https://visitcount.itsvg.in)
